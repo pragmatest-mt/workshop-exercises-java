@@ -63,7 +63,7 @@ public class UserController {
 
     @GetMapping("/")
     public String welcome() {
-        return "welcome";
+        return "welcome. This is automatically deployed.";
     }
 
     @PutMapping("/users/{id}")
