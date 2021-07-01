@@ -61,6 +61,11 @@ public class UserController {
         return response;
     }
 
+    @RequestMapping("/")
+    public String welcome() {
+        return "welcome";
+    }
+
     @PutMapping("/users/{id}")
     UserResponse saveOrUpdate(@Valid @RequestBody UserRequest userRequest, @PathVariable Long id) {
 
