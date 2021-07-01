@@ -1,0 +1,9 @@
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/controllers/UserControllerUnitTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/repositories/UserRepositoryIntegrationTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/models/UserRequestValidationTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/services/UserEntityServiceTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/controllers/UserControllerIntegrationTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/controllers/UserControllerIntegrationMockMvcTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/matchers/UserEntityMatcher.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/UserEntityUtilsTest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/test/java/com/pragmatest/matchers/UserMatcher.java

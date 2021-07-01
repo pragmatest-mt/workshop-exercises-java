@@ -1,0 +1,14 @@
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/repositories/UserRepository.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/StartApplication.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/models/UserEntity.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/models/User.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/controllers/UserController.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/exceptions/UserNotFoundException.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/utils/UserUtils.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/models/UserRequest.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/exceptions/UserInvalidException.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/config/SwaggerConfig.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/services/UserService.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/exceptions/CustomGlobalExceptionHandler.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/services/UserServiceImpl.java
+/Users/andrea.mangion/Documents/workspace/workshop-exercises/continuous-testing-foundations/java/src/main/java/com/pragmatest/models/UserResponse.java

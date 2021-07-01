@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pragmatest.services.UserEntityServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.78 s - in com.pragmatest.services.UserEntityServiceTest

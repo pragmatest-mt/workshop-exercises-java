@@ -1,0 +1,9 @@
+com/pragmatest/repositories/UserRepositoryIntegrationTest.class
+com/pragmatest/matchers/UserEntityMatcher.class
+com/pragmatest/UserEntityUtilsTest.class
+com/pragmatest/matchers/UserMatcher.class
+com/pragmatest/controllers/UserControllerIntegrationTest.class
+com/pragmatest/services/UserEntityServiceTest.class
+com/pragmatest/controllers/UserControllerIntegrationMockMvcTest.class
+com/pragmatest/controllers/UserControllerUnitTest.class
+com/pragmatest/models/UserRequestValidationTest.class
