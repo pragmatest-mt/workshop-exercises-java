@@ -61,7 +61,7 @@ public class UserController {
         return response;
     }
 
-    @RequestMapping("/")
+    @GetMapping("/")
     public String welcome() {
         return "welcome";
     }
