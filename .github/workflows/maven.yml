@@ -11,9 +11,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up JDK 11
@@ -25,4 +23,10 @@ jobs:
     - name: Package jar file
       run: mvn package -DskipTests
     - name: Deploy on Heroku
-      run: git push heroku main
+      uses: akhileshns/heroku-deploy@v3.12.12
+      with: 
+        heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+        heroku_app_name: "pragmatest-workshop"
+        heroku_email: "dre086@gmail.com"
+
+
